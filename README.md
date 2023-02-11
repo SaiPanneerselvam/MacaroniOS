@@ -7,9 +7,6 @@ MacaroniOS is MacOS Catalina* &amp; Tiger OS Copies for VM's.
 | MacOS Catalina - ISO Image | [Click Here](#macos-catalina-iso-image-download) |
 | MacOS Tiger - VMDK | [Click Here](#macos-tiger-vmdk-download) |
 | Converting VMDK to VHD(X) | [Click Here](#how-to-convert-vmdk-to-vhdx) |
-| DMG Base (Catalina) | Click Here |
-| DMG Base (Tiger) | Click Here |
-| Natural Download: MacOS (Current Version) | Click Here |
 
 #
 #
